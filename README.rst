@@ -1,40 +1,28 @@
-AlertOps Expert Guidance
+Here’s How AlertOps’ Prebuilt Integration Improves Your Website Monitoring with Uptime Robot
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+ Uptime Robot is a website monitoring service that provides up to 50 monitors for free, and checks the status of your website every five minutes. If your website is down, Uptime Robot will send an alert with the error code (error 404, error 500, etc.) it received from your website.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+However, once the alert is sent, Uptime Robot’s job is done. Your tech team is in charge of adding relevant troubleshooting information to the alerts, opening and closing alerts and incidents, and ensuring the right people get the alerts.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+So, teams have to manually perform many repetitive tasks, and there’s the chance that tech teams may end up duplicating tasks. This creates a lot of inefficiency, and slows the process of getting your website back online, which means more downtime and more lost revenue.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AlertOps integrates with Uptime Robot to automate much of the alert management process, and eliminate redundant work for your tech teams, so you can get your website back online and get back to business faster.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Here’s what you get with an Uptime Robot and AlertOps integration:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+    Automated communication between Uptime Robot and AlertOps using the Generic REST API. There are no external plugins or widgets required to integrate your monitoring and incident management tools.
+    Automatically open and close alerts from Uptime Robot to reduce incident response time, and let everyone know when the incident is resolved, so they can get back to business as usual.
+    Craft custom messages to be sent out with alerts from Uptime Robot. This way your teams immediately know what the problem is.
+    AlertOps can take specific actions based on the sort of alert it receives from Uptime Robot so you can track incidents based on incident type, and route incidents to the right teams.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Ultimately, AlertOps prebuilt integration enables you to automate the management of information from monitoring tools like Uptime Robot, so you can respond faster, resolve incidents more efficiently, and recover more lost revenue.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+Learn more about how AlertOps streamlines your incident management process and integrates with your favorite monitoring tools in our help center
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-and-uptime-robot-integration/
 
 Read more:
 ====
